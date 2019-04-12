@@ -1,0 +1,27 @@
+{
+  "name": "hook-version-react-meetup-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "jest-dom": "3.1.2",
+    "react": "16.8.1",
+    "react-dom": "16.8.1",
+    "react-scripts": "2.1.5",
+    "react-testing-library": "6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom --verbose=false",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
